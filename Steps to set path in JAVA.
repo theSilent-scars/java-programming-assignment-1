@@ -1,0 +1,12 @@
+There are two ways to set the path in java they are as follows:
+1.Temporary
+2.Permanent
+
+To set the temporary path of JDK, we need to follow the following steps:
+1.Open the command prompt
+2.Copy the path of the JDK or bin directory
+3.Write in command prompt: set path=copied_path
+
+For setting the permanent path of JDK, we need to follow these steps:
+Go to My Computer properties -> advanced tab -> environment variables -> new tab of user variable -> 
+write path in variable name -> write path of bin folder in variable value -> and then futher click ok.
